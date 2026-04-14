@@ -115,6 +115,15 @@ This repository includes:
 - TURN relay configuration proof
 - monitoring dashboard
 - case summary PDF
+- ### Screenshots
+
+![TURN relay proof](screenshots/turn-relay-proof.png)
+
+![TURN settings](screenshots/turn-settings-nextcloud-talk.png)
+
+![Active call](screenshots/nextcloud-talk-active-call-4g.png)
+
+![Monitoring dashboard](screenshots/uptime-kuma-nextcloud-talk-dashboard.png)
 
 ---
 
